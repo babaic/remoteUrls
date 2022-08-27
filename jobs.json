@@ -1,0 +1,237 @@
+{
+    "pageProps": {
+        "jobs": [
+            {
+                "id": 1941,
+                "slug": "softwareingenieurin-579443",
+                "title": "Softwareingenieur:in",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "maasu-gmbh-554255",
+                    "name": "Maasu GmbH",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1658991886/DEV/sfu5xwmimncelovyhvmh.jpg"
+                },
+                "department": "Back-End Development",
+                "expiresAt": "2022-09-22T11:33:38.000Z",
+                "locations": "",
+                "isRemote": true,
+                "levels": "Junior, Medior, Senior",
+                "cta": "https://www.linkedin.com/jobs/view/3215314195/?refId=SxDhm8jdOjBu7rNwenbaOQ%3D%3D&trackingId=an6m1%2BYXk8k8H2ZSwWF8mw%3D%3D"
+            },
+            {
+                "id": 1940,
+                "slug": "3d-modelling-engineer-521494",
+                "title": "3D Modelling Engineer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "axess-digital-382467",
+                    "name": "Axess Digital",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1642405295/DEV/v6oayfmyxfaoqgbm2gvs.jpg"
+                },
+                "department": "Back-End Development",
+                "expiresAt": "2022-09-22T09:56:48.000Z",
+                "locations": "Mostar",
+                "isRemote": true,
+                "levels": "Medior",
+                "cta": "https://candidate.hr-manager.net/ApplicationForm/SinglePageApplicationForm.aspx?cid=324&departmentId=21668&ProjectId=184906"
+            },
+            {
+                "id": 1938,
+                "slug": "medior-backend-developer-283731",
+                "title": "Medior Backend Developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "infogrupa-478639",
+                    "name": "InfoGrupa",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1645618796/DEV/ybfvfdlpzryve7knas2r.jpg"
+                },
+                "department": "Back-End Development",
+                "expiresAt": "2022-09-22T08:10:17.000Z",
+                "locations": "Mostar",
+                "isRemote": true,
+                "levels": "Medior",
+                "cta": "https://www.linkedin.com/jobs/view/3234106245/"
+            },
+            {
+                "id": 1937,
+                "slug": "php-developer-486311",
+                "title": "PHP Developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "idk-studio-296602",
+                    "name": "IDK Studio",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1642402762/DEV/gaodvzf835thwc4fh8ab.jpg"
+                },
+                "department": "Back-End Development",
+                "expiresAt": "2022-09-22T08:05:48.000Z",
+                "locations": "",
+                "isRemote": true,
+                "levels": "Medior, Senior",
+                "cta": "careers@idkstudio.com"
+            },
+            {
+                "id": 1936,
+                "slug": "sales-manager-276474",
+                "title": "Sales Manager",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "sunray-113567",
+                    "name": "Sunray",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1650698018/DEV/w77iinouxuvifkrczpil.jpg"
+                },
+                "department": "Marketing",
+                "expiresAt": "2022-09-22T08:00:05.000Z",
+                "locations": "Sarajevo",
+                "isRemote": false,
+                "levels": "Medior",
+                "cta": "info@sunray.dev"
+            },
+            {
+                "id": 1935,
+                "slug": "full-stack-angularnet-developer-269905",
+                "title": "Full Stack Angular/.NET Developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "outecho-807860",
+                    "name": "Outecho",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1661240819/DEV/emrevx3z4ul3h15n3tcd.jpg"
+                },
+                "department": "Full Stack Development",
+                "expiresAt": "2022-09-22T07:50:41.000Z",
+                "locations": "Sarajevo",
+                "isRemote": true,
+                "levels": "Medior, Senior",
+                "cta": "https://www.linkedin.com/jobs/view/3226763668/"
+            },
+            {
+                "id": 1934,
+                "slug": "backend-developer-248112",
+                "title": "Backend Developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "k7-tech-192704",
+                    "name": "K7 Tech",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1661239579/DEV/bqhb4lapk5kwr0v8rkny.jpg"
+                },
+                "department": "Back-End Development",
+                "expiresAt": "2022-09-22T07:40:48.000Z",
+                "locations": "",
+                "isRemote": true,
+                "levels": "Medior",
+                "cta": "https://www.k7tech.agency/careers/backend-developer"
+            },
+            {
+                "id": 1931,
+                "slug": "experienced-qa-tester-317695",
+                "title": "Experienced QA Tester",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "k7-tech-192704",
+                    "name": "K7 Tech",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1661239579/DEV/bqhb4lapk5kwr0v8rkny.jpg"
+                },
+                "department": "Quality Assurance",
+                "expiresAt": "2022-09-22T07:32:27.000Z",
+                "locations": "",
+                "isRemote": true,
+                "levels": "Medior, Senior",
+                "cta": "https://www.k7tech.agency/careers/experienced-qa-tester"
+            },
+            {
+                "id": 1157,
+                "slug": "iosswift-developer-535160",
+                "title": "iOS/Swift developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "imperea-405010",
+                    "name": "Imperea",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1642491179/DEV/ac5odtccy2xz4tchlbwt.jpg"
+                },
+                "department": "Front-End Development",
+                "expiresAt": "2022-09-22T07:19:26.000Z",
+                "locations": "Zenica",
+                "isRemote": true,
+                "levels": "Medior",
+                "cta": "office@imperea.ba"
+            },
+            {
+                "id": 1156,
+                "slug": "androidkotlin-developer-192973",
+                "title": "Android/Kotlin developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "imperea-405010",
+                    "name": "Imperea",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1642491179/DEV/ac5odtccy2xz4tchlbwt.jpg"
+                },
+                "department": "Back-End Development",
+                "expiresAt": "2022-09-22T07:19:24.000Z",
+                "locations": "Zenica",
+                "isRemote": true,
+                "levels": "Medior",
+                "cta": "office@imperea.ba"
+            },
+            {
+                "id": 1155,
+                "slug": "angular-developer-762192",
+                "title": "Angular developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "imperea-405010",
+                    "name": "Imperea",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1642491179/DEV/ac5odtccy2xz4tchlbwt.jpg"
+                },
+                "department": "Front-End Development",
+                "expiresAt": "2022-09-22T07:19:23.000Z",
+                "locations": "Zenica",
+                "isRemote": true,
+                "levels": "Medior",
+                "cta": "office@imperea.ba"
+            },
+            {
+                "id": 596,
+                "slug": "senior-developer-939215",
+                "title": "Senior Developer",
+                "isPremium": 0,
+                "isColored": 0,
+                "sallary": "",
+                "company": {
+                    "slug": "handh-inc-568062",
+                    "name": "H&H Inc",
+                    "logo": "https://res.cloudinary.com/posaoiti/image/upload/v1645616859/DEV/ychdtxssrbgxdzyvwy81.jpg"
+                },
+                "department": "Back-End Development",
+                "expiresAt": "2022-09-22T07:19:09.000Z",
+                "locations": "Tuzla",
+                "isRemote": false,
+                "levels": "Senior",
+                "cta": "http://www.hhinc.eu/#/careers"
+            }
+        ],
+        "total": 571,
+        "page": 2
+    },
+    "__N_SSG": true
+}
