@@ -1,0 +1,73 @@
+{
+    "pageProps": {
+        "job": {
+            "slug": "softwareingenieurin-579443",
+            "title": "Softwareingenieur:in",
+            "oKompaniji": "{\"blocks\":[{\"key\":\"adl67\",\"text\":\"We love building amazing products and providing first-class IT services.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"evbh4\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"f18qb\",\"text\":\"Our employees and customers are the focus of our culture. We foster a culture that enables everyone to grow both professionally and personally. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6blbs\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"24o5h\",\"text\":\"We are a tech driven company supercharged by the feedback of our customers. \",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"o51q\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8suvj\",\"text\":\"We work with the leading companies, both in the automotive industry and in other sectors.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+            "opisPosla": "{\"blocks\":[{\"key\":\"6tvgq\",\"text\":\"We are a young motivated team of people who love what they do. We foster both personal and professional growth and highly appreciate team oriented work with individual responsibility\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"36pvu\",\"text\":\"We are looking for motivated colleagues who are willing to work on world class automotive software in the field of emobility drivetrain.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"5va3p\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"2pcv8\",\"text\":\"Main responsibilities:\",\"type\":\"header-three\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"77qv0\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"f3glp\",\"text\":\"Help defining and participate in manual and scenario testing efforts to find issues with functionality\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"5q6lr\",\"text\":\"Collaborate with other testers and developers in an agile environment\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"d0sso\",\"text\":\"Create, write and automate test cases\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8eng8\",\"text\":\"Track the progress of software bugs from identification to resolution\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"e8kud\",\"text\":\"Incorporate behavior driven design and testing into story writing/planning activities\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"8nlv5\",\"text\":\"Identify, analyse, and create detailed records of bugs and software defects\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"fu5gh\",\"text\":\"Create and execute testing methods for company products and software components for highest quality assurance\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"74u3o\",\"text\":\"Research and contribute ideas for a continuous improvement of code quality and automation test performance\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+            "kvalifikacije": "{\"blocks\":[{\"key\":\"82btc\",\"text\":\"Qualifications:\",\"type\":\"header-three\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"f7h8b\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"60c4s\",\"text\":\"Demonstrated proficiency in Git\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"40uvl\",\"text\":\"Ability to develop C applications\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"6cdfi\",\"text\":\"Experience in development using C++\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"elm0f\",\"text\":\"Working knowledge of Linux\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"eevrs\",\"text\":\"Solid grasp of testing and debugging code\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"9s7rf\",\"text\":\"Experience with unit testing\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"4d3i6\",\"text\":\"Python\",\"type\":\"unordered-list-item\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+            "informacije": "\"\"",
+            "cta": "https://www.linkedin.com/jobs/view/3215314195/?refId=SxDhm8jdOjBu7rNwenbaOQ%3D%3D&trackingId=an6m1%2BYXk8k8H2ZSwWF8mw%3D%3D",
+            "isPremium": 0,
+            "isColored": 0,
+            "created_at": "2022-08-23T11:33:39.000Z",
+            "meta": {
+                "expiresAt": "2022-09-22T11:33:38.000Z",
+                "sallary": "",
+                "department": "Back-End Development",
+                "company": "Maasu GmbH",
+                "companyLogo": "https://res.cloudinary.com/posaoiti/image/upload/v1658991886/DEV/sfu5xwmimncelovyhvmh.jpg",
+                "companySlug": "maasu-gmbh-554255",
+                "companyPlan": "FREE",
+                "type": "Puno radno vrijeme",
+                "level": "Junior, Medior, Senior",
+                "cities": "Remote",
+                "tags": [
+                    "C++",
+                    "Git",
+                    "Linux",
+                    "Python"
+                ]
+            },
+            "levelsList": [
+                {
+                    "name": "Junior",
+                    "slug": "junior"
+                },
+                {
+                    "name": "Medior",
+                    "slug": "medior"
+                },
+                {
+                    "name": "Senior",
+                    "slug": "senior"
+                }
+            ],
+            "tagsList": [
+                {
+                    "name": "C++",
+                    "slug": "c++-577"
+                },
+                {
+                    "name": "Git",
+                    "slug": "git-499"
+                },
+                {
+                    "name": "Linux",
+                    "slug": "linux-953"
+                },
+                {
+                    "name": "Python",
+                    "slug": "python-405"
+                }
+            ],
+            "citiesList": [
+                {
+                    "name": "Remote",
+                    "slug": "remote"
+                }
+            ]
+        }
+    },
+    "__N_SSG": true
+}
